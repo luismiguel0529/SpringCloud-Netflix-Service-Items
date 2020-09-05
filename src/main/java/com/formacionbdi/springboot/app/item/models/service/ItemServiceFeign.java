@@ -2,7 +2,8 @@ package com.formacionbdi.springboot.app.item.models.service;
 
 import com.formacionbdi.springboot.app.item.client.ProductoClientRest;
 import com.formacionbdi.springboot.app.item.models.Item;
-import com.formacionbdi.springboot.app.item.models.Producto;
+//import com.formacionbdi.springboot.app.item.models.Producto;
+import com.formacionbdi.springboot.app.models.entity.Producto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;

@@ -1,3 +1,4 @@
+/*
 package com.formacionbdi.springboot.app.item.models;
 
 import java.util.Date;
@@ -51,3 +52,4 @@ public class Producto {
         this.createAt = createAt;
     }
 }
+*/
